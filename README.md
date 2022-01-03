@@ -5,4 +5,3 @@
 - 📫 How to reach me ...
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dark-baba &theme=radical)
